@@ -55,6 +55,11 @@ After Creating Database,
 ![5](https://user-images.githubusercontent.com/61421882/102718740-f9c23680-42e9-11eb-9c8a-a7c666548420.png)
 
 
+# Structure Code:
+
+![8](https://user-images.githubusercontent.com/61421882/102718970-71449580-42eb-11eb-8edb-78c1a1d3c9cd.png)
+
+
 
 
 
