@@ -45,6 +45,8 @@ After Creating Database,
 
 **LOGIN:**
 ![3](https://user-images.githubusercontent.com/61421882/102718748-fe86ea80-42e9-11eb-813a-9e93e16db4a9.png)
+![6](https://user-images.githubusercontent.com/61421882/102718924-33477180-42eb-11eb-93f8-37793915512f.png)
+![7](https://user-images.githubusercontent.com/61421882/102718927-34789e80-42eb-11eb-8373-f18639d3c959.png)
 
 **REGISTER:**
 ![4](https://user-images.githubusercontent.com/61421882/102718750-ff1f8100-42e9-11eb-8554-fd74e044a03b.png)
