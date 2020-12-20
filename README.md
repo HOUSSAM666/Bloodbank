@@ -79,4 +79,4 @@ I did use 4 tables in this project:
 
 # Thanks:
 
-🙏 Finally, we want say thank you to the one and only, our teacher Mr Toumi Hicham  for his supervising and supporting, also for giving us this opportunity to improve our skills and know new technologies.
+🙏 Finally, i want to say thank you to the one and only, our teacher Mr Toumi Hicham  for his supervising and supporting, also for giving us this opportunity to improve our skills and know new technologies.
