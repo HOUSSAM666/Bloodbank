@@ -32,7 +32,37 @@ Then,
 
 After Creating Database,
 
-**9th Step:** Open a browser and go to URL “http://localhost/bloodbank/”
+**9th Step:** Open a browser and go to URL “http://localhost/bloodbank/”.
+
+
+# Screens From the Website:
+
+
+**View From the Website:**
+
+![1](https://user-images.githubusercontent.com/61421882/102718743-fb8bfa00-42e9-11eb-9cb7-3c1eafdd6a9d.png)
+![2](https://user-images.githubusercontent.com/61421882/102718745-fcbd2700-42e9-11eb-83d3-fb2bea138700.png)
+
+**LOGIN:**
+![3](https://user-images.githubusercontent.com/61421882/102718748-fe86ea80-42e9-11eb-813a-9e93e16db4a9.png)
+
+**REGISTER:**
+![4](https://user-images.githubusercontent.com/61421882/102718750-ff1f8100-42e9-11eb-8554-fd74e044a03b.png)
+
+**AVAILABALE BLOOD SAMPLES:**
+![5](https://user-images.githubusercontent.com/61421882/102718740-f9c23680-42e9-11eb-9c8a-a7c666548420.png)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
